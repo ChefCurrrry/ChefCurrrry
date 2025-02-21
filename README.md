@@ -29,7 +29,7 @@ Voici mon projet notable :
 
 Vous pouvez me contacter via :
 
-- **Email :** [votre.email@example.com](mailto:votre.email@example.com)
+- **Email :** [k.kichenassamy@yahoo.com](mailto:votre.email@example.com)
 - **LinkedIn :** [Votre Profil LinkedIn](lien vers votre profil LinkedIn)
 
 N'hésitez pas à explorer mon dépôt et à contribuer ou suggérer des améliorations. Je suis toujours ouvert à de nouvelles collaborations et opportunités.
