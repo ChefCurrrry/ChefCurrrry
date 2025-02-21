@@ -30,6 +30,6 @@ Voici mon projet notable :
 Vous pouvez me contacter via :
 
 - **Email :** [k.kichenassamy@yahoo.com](mailto:votre.email@example.com)
-- **LinkedIn :** [Kirankumar KICHENASSAMY]([lien vers votre profil LinkedIn](https://www.linkedin.com/in/kirankumar-kichenassamy-b63a772b9/))
+- **LinkedIn :** [Kirankumar KICHENASSAMY](https://www.linkedin.com/in/kirankumar-kichenassamy-b63a772b9/)
 
 N'hésitez pas à explorer mon dépôt et à contribuer ou suggérer des améliorations. Je suis toujours ouvert à de nouvelles collaborations et opportunités.
